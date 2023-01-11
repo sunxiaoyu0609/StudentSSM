@@ -1,0 +1,7 @@
+create table studentssm(
+	sid int primary key,
+	sname varchar(50),
+	sage varchar(60)
+)
+insert into studentssm values(1,'张三','20')
+insert into studentssm values (2,'李四','20')
